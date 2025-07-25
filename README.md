@@ -41,3 +41,4 @@ LLM Agent: The result of '15+4' is 19.
 ```
 
 The plan is to add some working memory and some idea of planning so that
+Note the clear hallucination.
